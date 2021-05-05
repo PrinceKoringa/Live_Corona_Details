@@ -69,19 +69,6 @@ const India = () =>
        <br/>
       
         {!city?(<h4 class="d-flex justify-content-center" style={{color:"red"}}>Please Enter your Proper Data </h4>):<h1 style={{fontSize:"1.2rem"}}>{city}</h1> }      
-       
-       <>
-      
-     
-
-   
-        </>
-       
-       
-      
-    
-       
-     
       
         </>
     );
