@@ -72,34 +72,9 @@ const India = () =>
        
        <>
       
-       {/* {let city = this.state.city;
-        city = city.map((char, index) => {
-            return (
-                <Character char={char} key={index}  />
-            );
-        }); */}
+     
 
-    {/* {   let city =this.city;
-    
-      city = city.map((value)=>{
-           return(
-              <>
-              <h2>address={value.address}</h2>
-              </> 
-                 );
-            });
-            return(
-                <div></div>
-            )
-        }
-     */}
-      
-
-       {/* <h1>Your Country is {search} And State is {state}</h1>
-       <div style={{color:"gray"}}>  <h1>{country.Province} confirmed cases {country.Confirmed}</h1></div>
-       <div style={{color:"orange"}}><h1>{country.Province} Active Cases {country.Active}</h1></div>
-       <div style={{color:"green"}}><h1>{country.Province} Recover cases {country.Recovered}</h1></div>
-       <div style={{color:"red"}}> <h1>{country.Province} Deaths {country.Deaths}</h1></div> */}
+   
         </>
        
        
